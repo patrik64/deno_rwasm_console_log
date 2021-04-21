@@ -1,9 +1,9 @@
 # deno_rwasm_console_log
 simple deno rust wasm example showing how to use console log from rust
 
-before running make sure you have rust and wasm-pack installed:
-https://www.rust-lang.org/tools/install
-https://rustwasm.github.io/wasm-pack/installer/
+before running make sure you have rust and wasm-pack installed:  
+https://www.rust-lang.org/tools/install  
+https://rustwasm.github.io/wasm-pack/installer/  
 
 to use run:
 
