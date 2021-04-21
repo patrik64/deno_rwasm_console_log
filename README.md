@@ -3,7 +3,7 @@ simple deno rust wasm example showing how to use console log from rust
 
 to use run:
 
-```deno run --allow-read --allow-run --allow-write build.ts```
+```deno run -A build.ts```
 
 and then:
 
