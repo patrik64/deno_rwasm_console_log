@@ -3,6 +3,8 @@ name = "deno_rwasm_console_log"
 description = "WASM bindings to console log function"
 version = "0.1.0"
 edition = "2018"
+license = "MIT"
+repository = "https://github.com/Patrik64/deno_rwasm_console_log"
 
 [lib]
 crate-type = ["cdylib"]
